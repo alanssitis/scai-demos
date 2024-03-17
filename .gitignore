@@ -2,3 +2,4 @@ scai-venv
 __pycache__
 *~
 *.pem
+bin/
